@@ -4,7 +4,7 @@ import numpy as np
 
 st.header('sine(x) & cosine(x)')
 
-x = np.arange(0, 9, 0.1)
+x = np.arange(0, np.pi, 0.1)
 df = pd.DataFrame({'x' : x, 'sin_x' : np.sin(x), 'cos_x' : np.cos(x)})
 
 df
