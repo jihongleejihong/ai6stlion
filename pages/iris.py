@@ -8,7 +8,7 @@ st.write("""
 This app predicts the **Iris flower** type!
 """)
 
-st.markdown('''reference: dataprofessor/ streamlit_freecodecamp [url](https://github.com/dataprofessor/streamlit_freecodecamp/blob/main/app_7_classification_iris/iris-ml-app.py)''')
+st.markdown('''### Reference: dataprofessor/ streamlit_freecodecamp [url](https://github.com/dataprofessor/streamlit_freecodecamp/blob/main/app_7_classification_iris/iris-ml-app.py)''')
 
 
 st.sidebar.header('User Input Parameters')
